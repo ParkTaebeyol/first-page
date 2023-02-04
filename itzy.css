@@ -1,0 +1,23 @@
+body {
+    background-image: url(./winter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.vy {
+    width: 30px;
+    padding-right: 350px;
+}
+.vy6 {
+    width: 40px;
+}
+th {
+    padding-left: 15px;
+}
+
+/* .iu {
+    opacity: 0.8;
+    width: 818px;
+    height: 355px;
+} */
